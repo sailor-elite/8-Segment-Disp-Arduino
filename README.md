@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/Project_photo.png" />
+</p>
+
 # Eight-Segment Display with Arduino Uno
 
 Welcome to the repository for my first-ever project on GitHub! 🎉 This project has a special place in my heart, as it represents my initial steps into the world of coding and hardware. Even though it's far from perfect, I keep it here for its historical value. 😊
